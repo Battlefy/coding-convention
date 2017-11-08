@@ -1,0 +1,17 @@
+{
+  "name": "coding-convention",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Battlefy/coding-convention.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Battlefy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Battlefy/coding-convention/issues"
+  },
+  "homepage": "https://github.com/Battlefy/coding-convention#readme"
+}
