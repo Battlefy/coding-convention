@@ -4,6 +4,7 @@
     "array-bracket-spacing": "error",
     "arrow-parens": "error",
     "arrow-spacing": "error",
+    "comma-dangle": "error",
     "computed-property-spacing": "error",
     "dot-location": [
       "error",
@@ -73,7 +74,11 @@
     "space-before-blocks": "error",
     "space-before-function-paren": [
       "error",
-      "never"
+      {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+      }
     ],
     "space-in-parens": "error",
     "space-infix-ops": "error",
