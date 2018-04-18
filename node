@@ -31,7 +31,6 @@
     "no-const-assign": "error",
     "no-constant-condition": "error",
     "no-dupe-class-members": "error",
-    "no-extra-parens": "error",
     "no-extra-semi": "error",
     "no-implicit-coercion": "error",
     "no-mixed-spaces-and-tabs": "error",
