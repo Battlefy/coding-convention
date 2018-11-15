@@ -38,6 +38,7 @@
     "no-octal": "error",
     "no-redeclare": "error",
     "no-spaced-func": "error",
+    "no-trailing-spaces": "error", 
     "no-undef": "error",
     "no-unneeded-ternary": "error",
     "no-unused-vars": [
